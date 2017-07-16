@@ -1,0 +1,5 @@
+cron:
+- description: daily run
+  url: /autosql/task
+  schedule: every 24 hours
+  timezone: Asia/Tokyo
